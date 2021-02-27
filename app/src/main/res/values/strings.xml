@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Replt_toast">"Reply done at position : %1$d"</string>
+    <string name="reply_item_text">"Reply Item : %1$d"</string>
+</resources>
